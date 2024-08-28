@@ -1,0 +1,21 @@
+/* styles.css - Add these styles to the existing CSS */
+
+/* About Us page styles */
+.about-us {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.about-us h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-us p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
